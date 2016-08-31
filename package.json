@@ -1,0 +1,12 @@
+{
+  "name"         : "1075-poc",
+  "version"      : "0.0.1",
+  "description"  : "Scrape Lake Mead water levels.",
+  "main"         : "server.js",
+  "author"       : "hello@stevetyree.com",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
