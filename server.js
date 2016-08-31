@@ -4,7 +4,7 @@ var cheerio = require('cheerio');
 
 var app = express();
 
-function numberify(numString){
+function numberify(numString) {
 	var splitString = numString.split(',');
 	var joinedString = splitString.join('');
 
